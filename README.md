@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ## 🎓 Education
-#### Universitas Putra Indonesia YPTK Padang | `2019-2023`
+Universitas Putra Indonesia YPTK Padang | `2019-2023`
 - Bachelor's degree in Informatic Engineering
 
 ## 🌐 Socials
